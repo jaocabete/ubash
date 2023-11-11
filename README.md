@@ -2,9 +2,9 @@
 Ubuntu Bash Scripts
 
 
-#### Instructions:
+## Instructions:
 
-How to use sethostanme.sh :
+#### How to use sethostname.sh :
 
 1. Open a terminal on your Ubuntu system.
 2. Download sethostname.sh:
