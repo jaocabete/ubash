@@ -7,8 +7,11 @@ Ubuntu Bash Scripts
 How to use sethostanme.sh :
 
 1. Open a terminal on your Ubuntu system.
-2. Save the script in a file, sethostname.sh. 
-3. Make it executable using the following command:
+2. Download sethostname.sh:
+```bash
+wget https://raw.githubusercontent.com/jaocabete/ubash/main/sethostname.sh
+``` 
+4. Make it executable using the following command:
 ```bash
 chmod +x set_hostname.sh
 ```
