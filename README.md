@@ -11,7 +11,7 @@ Ubuntu Bash Scripts
 ```bash
 wget https://raw.githubusercontent.com/jaocabete/ubash/main/sethostname.sh
 ``` 
-4. Make it executable using the following command:
+3. Make it executable:
 ```bash
 chmod +x set_hostname.sh
 ```
