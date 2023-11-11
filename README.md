@@ -11,8 +11,8 @@ How to use sethostanme.sh :
 3. Make it executable using the following command:
 ```bash
 chmod +x set_hostname.sh
-```bash
+```
 4. Then, run the script:
 ```bash
 ./set_hostname.sh
-```bash
+```
